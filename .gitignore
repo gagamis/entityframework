@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Configurations/WebApi/bin/Debug/netcoreapp2.2
+/Configurations/WebApi/obj
+/Configurations/Infrastructure/obj
+/Configurations/Infrastructure/bin/Debug/netcoreapp2.2
+/Configurations/Core/obj
+/Configurations/Core/bin/Debug/netcoreapp2.2
+/Configurations/.vs/Configurations
+/Configurations/WebApi/Dockerfile
+/Configurations/.dockerignore
